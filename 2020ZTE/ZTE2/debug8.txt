@@ -1,0 +1,576 @@
+Item{name=905, start=92, end=335, weight=100.0}
+Z329,Z214,Z335
+Item{name=1200, start=92, end=335, weight=100.0}
+Z309,Z36,Z335
+Item{name=1211, start=113, end=261, weight=100.0}
+Z254,Z74,Z52,Z261
+Item{name=1393, start=113, end=313, weight=100.0}
+Z306,Z152,Z313
+Item{name=1888, start=113, end=299, weight=100.0}
+Z163,Z100,Z230,Z299
+Item{name=1976, start=92, end=335, weight=100.0}
+Z179,Z306,Z335
+Item{name=2453, start=95, end=113, weight=100.0}
+Z214,Z313,Z238,Z113
+Item{name=2885, start=267, end=335, weight=100.0}
+Z196,Z187,Z335
+Item{name=2927, start=113, end=313, weight=100.0}
+Z306,Z335,Z313
+Item{name=3047, start=95, end=113, weight=100.0}
+Z214,Z306,Z92,Z113
+Item{name=3077, start=92, end=335, weight=100.0}
+Z309,Z36,Z335
+Item{name=3395, start=95, end=113, weight=100.0}
+Z152,Z92,Z113
+Item{name=3510, start=92, end=335, weight=100.0}
+Z152,Z306,Z335
+Item{name=3876, start=92, end=335, weight=100.0}
+Z179,Z329,Z214,Z335
+Item{name=28, start=2, end=135, weight=80.0}
+null
+Item{name=701, start=97, end=210, weight=80.0}
+Z173,Z210
+Item{name=780, start=270, end=315, weight=80.0}
+null
+Item{name=1308, start=92, end=335, weight=80.0}
+Z309,Z111,Z335
+Item{name=1376, start=1, end=335, weight=80.0}
+null
+Item{name=1449, start=92, end=335, weight=80.0}
+Z111,Z335
+Item{name=1472, start=113, end=299, weight=80.0}
+Z15,Z129,Z32,Z299
+Item{name=1557, start=183, end=310, weight=80.0}
+null
+Item{name=1709, start=275, end=341, weight=80.0}
+null
+Item{name=1828, start=86, end=108, weight=80.0}
+Z52,Z135,Z108
+Item{name=1875, start=231, end=335, weight=80.0}
+null
+Item{name=1937, start=231, end=335, weight=80.0}
+Z122,Z335
+Item{name=1969, start=332, end=335, weight=80.0}
+Z275,Z335
+Item{name=1984, start=80, end=113, weight=80.0}
+Z100,Z341,Z113
+Item{name=1995, start=95, end=108, weight=80.0}
+Z335,Z179,Z329,Z108
+Item{name=2028, start=95, end=210, weight=80.0}
+null
+Item{name=2029, start=92, end=335, weight=80.0}
+null
+Item{name=2058, start=85, end=335, weight=80.0}
+null
+Item{name=2084, start=209, end=341, weight=80.0}
+null
+Item{name=2112, start=113, end=345, weight=80.0}
+Z20,Z32,Z342,Z345
+Item{name=2117, start=113, end=345, weight=80.0}
+null
+Item{name=2121, start=209, end=341, weight=80.0}
+null
+Item{name=2131, start=92, end=335, weight=80.0}
+null
+Item{name=2170, start=15, end=299, weight=80.0}
+null
+Item{name=2204, start=130, end=335, weight=80.0}
+null
+Item{name=2211, start=240, end=286, weight=80.0}
+Z133,Z61,Z286
+Item{name=2261, start=62, end=113, weight=80.0}
+null
+Item{name=2275, start=102, end=331, weight=80.0}
+null
+Item{name=2279, start=80, end=299, weight=80.0}
+null
+Item{name=2331, start=253, end=335, weight=80.0}
+null
+Item{name=2338, start=253, end=335, weight=80.0}
+null
+Item{name=2352, start=253, end=335, weight=80.0}
+null
+Item{name=2354, start=253, end=335, weight=80.0}
+null
+Item{name=2357, start=253, end=335, weight=80.0}
+null
+Item{name=2373, start=253, end=335, weight=80.0}
+null
+Item{name=2417, start=95, end=335, weight=80.0}
+Z107,Z335
+Item{name=2433, start=86, end=341, weight=80.0}
+null
+Item{name=2565, start=144, end=299, weight=80.0}
+null
+Item{name=2568, start=144, end=299, weight=80.0}
+null
+Item{name=2658, start=102, end=331, weight=80.0}
+null
+Item{name=2687, start=121, end=335, weight=80.0}
+null
+Item{name=2824, start=21, end=331, weight=80.0}
+null
+Item{name=2834, start=44, end=48, weight=80.0}
+null
+Item{name=2873, start=62, end=141, weight=80.0}
+null
+Item{name=2879, start=315, end=335, weight=80.0}
+null
+Item{name=2904, start=165, end=173, weight=80.0}
+null
+Item{name=2915, start=240, end=335, weight=80.0}
+null
+Item{name=2916, start=240, end=335, weight=80.0}
+null
+Item{name=2921, start=240, end=335, weight=80.0}
+null
+Item{name=2924, start=240, end=335, weight=80.0}
+null
+Item{name=2930, start=113, end=335, weight=80.0}
+null
+Item{name=2992, start=113, end=144, weight=80.0}
+Z286,Z61,Z230,Z144
+Item{name=2998, start=1, end=335, weight=80.0}
+Z100,Z32,Z273,Z335
+Item{name=3040, start=261, end=335, weight=80.0}
+null
+Item{name=3088, start=113, end=261, weight=80.0}
+Z250,Z202,Z261
+Item{name=3207, start=267, end=341, weight=80.0}
+Z202,Z294,Z341
+Item{name=3250, start=275, end=341, weight=80.0}
+null
+Item{name=3278, start=95, end=267, weight=80.0}
+Z152,Z214,Z306,Z267
+Item{name=3281, start=95, end=267, weight=80.0}
+Z122,Z11,Z339,Z267
+Item{name=3285, start=95, end=267, weight=80.0}
+Z231,Z2,Z335,Z267
+Item{name=3295, start=210, end=328, weight=80.0}
+null
+Item{name=3317, start=210, end=285, weight=80.0}
+null
+Item{name=3366, start=150, end=315, weight=80.0}
+null
+Item{name=3388, start=108, end=286, weight=80.0}
+null
+Item{name=3448, start=92, end=335, weight=80.0}
+Z309,Z36,Z335
+Item{name=3456, start=15, end=299, weight=80.0}
+null
+Item{name=3465, start=92, end=335, weight=80.0}
+Z329,Z214,Z306,Z335
+Item{name=3484, start=130, end=335, weight=80.0}
+null
+Item{name=3580, start=335, end=341, weight=80.0}
+null
+Item{name=3593, start=261, end=335, weight=80.0}
+null
+Item{name=3594, start=261, end=335, weight=80.0}
+null
+Item{name=3596, start=304, end=335, weight=80.0}
+null
+Item{name=3627, start=80, end=299, weight=80.0}
+null
+Item{name=3634, start=240, end=286, weight=80.0}
+null
+Item{name=3645, start=113, end=194, weight=80.0}
+null
+Item{name=3659, start=1, end=335, weight=80.0}
+null
+Item{name=3669, start=261, end=267, weight=80.0}
+null
+Item{name=3685, start=261, end=335, weight=80.0}
+null
+Item{name=3689, start=210, end=213, weight=80.0}
+null
+Item{name=3695, start=113, end=345, weight=80.0}
+null
+Item{name=3703, start=113, end=345, weight=80.0}
+null
+Item{name=3744, start=139, end=267, weight=80.0}
+null
+Item{name=3810, start=95, end=210, weight=80.0}
+null
+Item{name=3816, start=95, end=210, weight=80.0}
+null
+Item{name=3838, start=335, end=341, weight=80.0}
+null
+Item{name=3846, start=335, end=339, weight=80.0}
+null
+Item{name=3848, start=295, end=335, weight=80.0}
+null
+Item{name=3860, start=201, end=341, weight=80.0}
+null
+Item{name=3861, start=113, end=243, weight=80.0}
+null
+Item{name=3882, start=267, end=338, weight=80.0}
+null
+Item{name=3939, start=2, end=135, weight=80.0}
+null
+Item{name=3954, start=48, end=86, weight=80.0}
+null
+Item{name=3956, start=231, end=335, weight=80.0}
+null
+Item{name=3966, start=52, end=196, weight=80.0}
+null
+Item{name=3971, start=92, end=335, weight=80.0}
+null
+Item{name=3976, start=261, end=335, weight=80.0}
+null
+Item{name=18, start=113, end=335, weight=40.0}
+null
+Item{name=57, start=86, end=341, weight=40.0}
+null
+Item{name=64, start=253, end=335, weight=40.0}
+null
+Item{name=70, start=113, end=345, weight=40.0}
+null
+Item{name=85, start=72, end=113, weight=40.0}
+null
+Item{name=112, start=95, end=113, weight=40.0}
+null
+Item{name=114, start=5, end=113, weight=40.0}
+null
+Item{name=120, start=80, end=335, weight=40.0}
+null
+Item{name=121, start=52, end=293, weight=40.0}
+null
+Item{name=122, start=2, end=135, weight=40.0}
+null
+Item{name=124, start=144, end=335, weight=40.0}
+null
+Item{name=126, start=267, end=335, weight=40.0}
+null
+Item{name=129, start=261, end=335, weight=40.0}
+null
+Item{name=168, start=113, end=261, weight=40.0}
+Z264,Z261
+Item{name=170, start=80, end=144, weight=40.0}
+Z331,Z144
+Item{name=182, start=224, end=341, weight=40.0}
+Z108,Z105,Z341
+Item{name=216, start=332, end=335, weight=40.0}
+null
+Item{name=221, start=21, end=125, weight=40.0}
+null
+Item{name=401, start=209, end=210, weight=40.0}
+Z137,Z210
+Item{name=414, start=62, end=197, weight=40.0}
+null
+Item{name=517, start=62, end=244, weight=40.0}
+null
+Item{name=622, start=41, end=299, weight=40.0}
+null
+Item{name=823, start=21, end=299, weight=40.0}
+null
+Item{name=839, start=48, end=341, weight=40.0}
+Z273,Z341
+Item{name=850, start=58, end=340, weight=40.0}
+Z331,Z340
+Item{name=900, start=267, end=341, weight=40.0}
+Z280,Z231,Z341
+Item{name=917, start=113, end=243, weight=40.0}
+Z72,Z243
+Item{name=1054, start=62, end=225, weight=40.0}
+Z120,Z315,Z225
+Item{name=1115, start=31, end=108, weight=40.0}
+Z342,Z194,Z239,Z108
+Item{name=1151, start=56, end=210, weight=40.0}
+Z311,Z74,Z210
+Item{name=1260, start=92, end=335, weight=40.0}
+Z309,Z111,Z335
+Item{name=1538, start=62, end=311, weight=40.0}
+null
+Item{name=1606, start=284, end=345, weight=40.0}
+null
+Item{name=1726, start=213, end=316, weight=40.0}
+Z156,Z316
+Item{name=1815, start=86, end=108, weight=40.0}
+Z187,Z108
+Item{name=1822, start=86, end=108, weight=40.0}
+Z196,Z2,Z117,Z108
+Item{name=1842, start=68, end=213, weight=40.0}
+Z84,Z213
+Item{name=1895, start=39, end=210, weight=40.0}
+Z326,Z210
+Item{name=1899, start=15, end=299, weight=40.0}
+null
+Item{name=1911, start=286, end=341, weight=40.0}
+null
+Item{name=1996, start=113, end=261, weight=40.0}
+Z254,Z255,Z342,Z261
+Item{name=2037, start=75, end=301, weight=40.0}
+null
+Item{name=2087, start=131, end=316, weight=40.0}
+null
+Item{name=2101, start=259, end=286, weight=40.0}
+null
+Item{name=2122, start=108, end=210, weight=40.0}
+Z7,Z210
+Item{name=2169, start=50, end=304, weight=40.0}
+null
+Item{name=2175, start=62, end=315, weight=40.0}
+null
+Item{name=2205, start=130, end=335, weight=40.0}
+Z135,Z335
+Item{name=2257, start=68, end=151, weight=40.0}
+Z84,Z123,Z151
+Item{name=2307, start=73, end=108, weight=40.0}
+null
+Item{name=2405, start=135, end=341, weight=40.0}
+Z52,Z187,Z2,Z341
+Item{name=2526, start=189, end=304, weight=40.0}
+null
+Item{name=2546, start=5, end=67, weight=40.0}
+null
+Item{name=2657, start=15, end=184, weight=40.0}
+null
+Item{name=2773, start=210, end=286, weight=40.0}
+Z200,Z286
+Item{name=2842, start=62, end=75, weight=40.0}
+null
+Item{name=2891, start=64, end=240, weight=40.0}
+null
+Item{name=2906, start=108, end=240, weight=40.0}
+null
+Item{name=2945, start=128, end=210, weight=40.0}
+null
+Item{name=3000, start=58, end=340, weight=40.0}
+null
+Item{name=3018, start=178, end=315, weight=40.0}
+null
+Item{name=3123, start=75, end=210, weight=40.0}
+null
+Item{name=3128, start=113, end=243, weight=40.0}
+null
+Item{name=3147, start=267, end=341, weight=40.0}
+Z196,Z135,Z294,Z341
+Item{name=3150, start=56, end=95, weight=40.0}
+null
+Item{name=3153, start=94, end=178, weight=40.0}
+null
+Item{name=3155, start=335, end=341, weight=40.0}
+Z338,Z341
+Item{name=3166, start=149, end=304, weight=40.0}
+null
+Item{name=3179, start=14, end=79, weight=40.0}
+null
+Item{name=3205, start=37, end=207, weight=40.0}
+null
+Item{name=3223, start=108, end=275, weight=40.0}
+Z201,Z275
+Item{name=3289, start=95, end=267, weight=40.0}
+null
+Item{name=3290, start=95, end=267, weight=40.0}
+Z300,Z238,Z267
+Item{name=3308, start=62, end=304, weight=40.0}
+Z315,Z304
+Item{name=3360, start=299, end=340, weight=40.0}
+null
+Item{name=3364, start=299, end=340, weight=40.0}
+Z58,Z63,Z41,Z340
+Item{name=3432, start=92, end=335, weight=40.0}
+null
+Item{name=3469, start=23, end=68, weight=40.0}
+Z192,Z68
+Item{name=3497, start=175, end=240, weight=40.0}
+null
+Item{name=3586, start=200, end=286, weight=40.0}
+null
+Item{name=3679, start=23, end=87, weight=40.0}
+null
+Item{name=3727, start=48, end=56, weight=40.0}
+null
+Item{name=3789, start=86, end=296, weight=40.0}
+null
+Item{name=3802, start=224, end=341, weight=40.0}
+Z105,Z341
+Item{name=3888, start=230, end=240, weight=40.0}
+null
+Item{name=3892, start=232, end=244, weight=40.0}
+Z307,Z244
+Item{name=3981, start=131, end=225, weight=40.0}
+null
+Item{name=153, start=14, end=339, weight=10.0}
+Z11,Z255,Z339
+Item{name=177, start=80, end=144, weight=10.0}
+Z102,Z331,Z286,Z144
+Item{name=180, start=80, end=144, weight=10.0}
+Z10,Z331,Z286,Z144
+Item{name=397, start=95, end=210, weight=10.0}
+Z96,Z210
+Item{name=438, start=113, end=231, weight=10.0}
+Z135,Z202,Z231
+Item{name=492, start=108, end=286, weight=10.0}
+Z341,Z322,Z286
+Item{name=495, start=62, end=193, weight=10.0}
+Z315,Z193
+Item{name=606, start=62, end=282, weight=10.0}
+Z169,Z282
+Item{name=660, start=108, end=275, weight=10.0}
+null
+Item{name=687, start=62, end=225, weight=10.0}
+Z120,Z89,Z225
+Item{name=694, start=62, end=225, weight=10.0}
+Z131,Z89,Z315,Z225
+Item{name=897, start=194, end=239, weight=10.0}
+null
+Item{name=940, start=2, end=135, weight=10.0}
+null
+Item{name=1058, start=193, end=210, weight=10.0}
+Z75,Z210
+Item{name=1216, start=262, end=335, weight=10.0}
+null
+Item{name=1450, start=56, end=62, weight=10.0}
+Z264,Z74,Z292,Z62
+Item{name=1458, start=29, end=340, weight=10.0}
+Z58,Z63,Z184,Z340
+Item{name=1589, start=113, end=253, weight=10.0}
+Z280,Z253
+Item{name=1612, start=21, end=341, weight=10.0}
+Z273,Z100,Z15,Z341
+Item{name=1619, start=21, end=341, weight=10.0}
+Z15,Z341
+Item{name=1646, start=5, end=112, weight=10.0}
+null
+Item{name=1647, start=113, end=144, weight=10.0}
+Z286,Z240,Z273,Z144
+Item{name=1697, start=76, end=83, weight=10.0}
+null
+Item{name=1795, start=113, end=130, weight=10.0}
+Z327,Z11,Z130
+Item{name=1797, start=113, end=130, weight=10.0}
+Z202,Z239,Z130
+Item{name=1831, start=95, end=267, weight=10.0}
+Z52,Z134,Z267
+Item{name=1878, start=80, end=144, weight=10.0}
+Z10,Z102,Z286,Z144
+Item{name=1920, start=267, end=341, weight=10.0}
+Z187,Z341
+Item{name=1959, start=209, end=315, weight=10.0}
+Z62,Z186,Z315
+Item{name=2001, start=267, end=341, weight=10.0}
+Z339,Z341
+Item{name=2002, start=62, end=343, weight=10.0}
+null
+Item{name=2017, start=149, end=315, weight=10.0}
+Z75,Z315
+Item{name=2098, start=94, end=304, weight=10.0}
+Z248,Z137,Z62,Z304
+Item{name=2099, start=94, end=304, weight=10.0}
+Z248,Z137,Z186,Z304
+Item{name=2108, start=113, end=345, weight=10.0}
+Z194,Z345
+Item{name=2116, start=113, end=345, weight=10.0}
+Z60,Z240,Z100,Z345
+Item{name=2166, start=80, end=113, weight=10.0}
+Z230,Z113
+Item{name=2184, start=62, end=131, weight=10.0}
+Z315,Z173,Z120,Z131
+Item{name=2219, start=250, end=255, weight=10.0}
+null
+Item{name=2267, start=143, end=190, weight=10.0}
+null
+Item{name=2287, start=153, end=210, weight=10.0}
+null
+Item{name=2303, start=68, end=110, weight=10.0}
+null
+Item{name=2313, start=80, end=113, weight=10.0}
+Z129,Z339,Z341,Z113
+Item{name=2425, start=113, end=261, weight=10.0}
+Z171,Z255,Z11,Z261
+Item{name=2501, start=86, end=249, weight=10.0}
+null
+Item{name=2524, start=95, end=267, weight=10.0}
+Z329,Z267
+Item{name=2558, start=127, end=198, weight=10.0}
+null
+Item{name=2567, start=94, end=315, weight=10.0}
+Z186,Z248,Z209,Z315
+Item{name=2576, start=267, end=320, weight=10.0}
+Z337,Z142,Z170,Z320
+Item{name=2636, start=62, end=209, weight=10.0}
+Z312,Z137,Z248,Z209
+Item{name=2725, start=231, end=335, weight=10.0}
+Z11,Z135,Z122,Z335
+Item{name=2728, start=50, end=260, weight=10.0}
+null
+Item{name=2772, start=62, end=286, weight=10.0}
+Z76,Z43,Z4,Z286
+Item{name=2821, start=144, end=315, weight=10.0}
+Z200,Z83,Z43,Z315
+Item{name=2972, start=62, end=94, weight=10.0}
+Z186,Z94
+Item{name=3021, start=94, end=304, weight=10.0}
+Z248,Z186,Z62,Z304
+Item{name=3034, start=192, end=316, weight=10.0}
+Z68,Z316
+Item{name=3164, start=144, end=299, weight=10.0}
+Z41,Z299
+Item{name=3217, start=267, end=341, weight=10.0}
+Z52,Z134,Z341
+Item{name=3284, start=95, end=267, weight=10.0}
+Z341,Z179,Z267
+Item{name=3340, start=62, end=176, weight=10.0}
+null
+Item{name=3376, start=108, end=308, weight=10.0}
+null
+Item{name=3382, start=79, end=86, weight=10.0}
+null
+Item{name=3492, start=62, end=180, weight=10.0}
+null
+Item{name=3551, start=231, end=335, weight=10.0}
+Z134,Z335
+Item{name=3568, start=135, end=341, weight=10.0}
+Z52,Z196,Z187,Z341
+Item{name=3637, start=21, end=341, weight=10.0}
+Z339,Z32,Z100,Z341
+Item{name=3781, start=267, end=341, weight=10.0}
+Z11,Z341
+Item{name=3813, start=40, end=197, weight=10.0}
+null
+Item{name=3853, start=192, end=316, weight=10.0}
+null
+Item{name=3905, start=86, end=175, weight=10.0}
+Z264,Z175
+Item{name=636, start=21, end=341, weight=2.675}
+Z230,Z32,Z15,Z341
+Item{name=2106, start=210, end=297, weight=2.675}
+Z62,Z297
+Item{name=2814, start=150, end=315, weight=2.5}
+Z96,Z315
+Item{name=3209, start=267, end=341, weight=2.5}
+Z294,Z341
+Item{name=3505, start=188, end=240, weight=2.5}
+Z104,Z240
+Item{name=3765, start=315, end=335, weight=2.5}
+Z1,Z335
+Item{name=717, start=56, end=341, weight=1.25}
+Z134,Z117,Z77,Z341
+Item{name=1034, start=131, end=210, weight=1.25}
+Z315,Z210
+Item{name=1324, start=108, end=286, weight=1.25}
+Z230,Z100,Z147,Z286
+Item{name=1508, start=142, end=271, weight=1.25}
+Z118,Z271
+Item{name=1802, start=86, end=108, weight=1.25}
+Z14,Z108
+Item{name=2382, start=86, end=240, weight=1.25}
+Z117,Z51,Z240
+Item{name=2467, start=108, end=267, weight=1.25}
+Z134,Z135,Z267
+Item{name=2952, start=131, end=341, weight=1.25}
+null
+Item{name=3020, start=56, end=95, weight=1.25}
+Z11,Z113,Z95
+Item{name=3163, start=286, end=341, weight=1.25}
+Z61,Z341
+Item{name=3253, start=95, end=267, weight=1.25}
+Z271,Z267
+Item{name=3386, start=108, end=194, weight=1.25}
+Z342,Z194
+Item{name=3513, start=267, end=338, weight=1.25}
+Z321,Z294,Z338
+Item{name=3806, start=95, end=210, weight=1.25}
+Z229,Z339,Z210

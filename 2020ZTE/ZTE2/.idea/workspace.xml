@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2517392-543d-4481-867d-35427d25201f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bNgCUPDVxi0gEtGtQ8K8OUYUVB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\java\ZTE2\src\com\company" />
+      <recent name="D:\project\java\ZTE2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.test">
+    <configuration name="test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ZTE2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ZTE2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.test" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ZTE2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.test" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ZTE2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.test" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ZTE2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.test" />
+      <option name="METHOD_NAME" value="test7" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.test" />
+        <item itemvalue="JUnit.test.test1" />
+        <item itemvalue="JUnit.test.test3" />
+        <item itemvalue="JUnit.test.test7" />
+        <item itemvalue="JUnit.test.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2517392-543d-4481-867d-35427d25201f" name="Default Changelist" comment="" />
+      <created>1588477837074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588477837074</updated>
+      <workItem from="1588477841149" duration="608000" />
+      <workItem from="1588494670460" duration="13323000" />
+      <workItem from="1588559508037" duration="20045000" />
+      <workItem from="1588597918319" duration="2788000" />
+      <workItem from="1588647514405" duration="8601000" />
+      <workItem from="1588660305928" duration="14487000" />
+      <workItem from="1588727929941" duration="3876000" />
+      <workItem from="1588732318433" duration="340000" />
+      <workItem from="1588748164154" duration="11502000" />
+      <workItem from="1588815043220" duration="5121000" />
+      <workItem from="1588846204900" duration="2389000" />
+      <workItem from="1588899843032" duration="7025000" />
+      <workItem from="1588907622793" duration="529000" />
+      <workItem from="1588924939489" duration="3374000" />
+      <workItem from="1589005636695" duration="26000" />
+      <workItem from="1589179928659" duration="634000" />
+      <workItem from="1589185621893" duration="248000" />
+      <workItem from="1589774773027" duration="7408000" />
+      <workItem from="1589813288955" duration="1015000" />
+      <workItem from="1589851160135" duration="1381000" />
+      <workItem from="1589934776494" duration="943000" />
+      <workItem from="1590062039930" duration="598000" />
+      <workItem from="1590145649524" duration="658000" />
+      <workItem from="1590562097510" duration="1405000" />
+      <workItem from="1590564633343" duration="1211000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="525" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1588649633831">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="525" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1588649633831" />
+    <state x="94" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1588822193246">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="94" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.860@0.0.1440.860" timestamp="1588822193246" />
+    <state x="449" y="71" key="#com.intellij.unscramble.UnscrambleDialog" timestamp="1588599317125">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="71" key="#com.intellij.unscramble.UnscrambleDialog/0.0.1536.824@0.0.1536.824" timestamp="1588599317125" />
+    <state x="500" y="184" key="FileChooserDialogImpl" timestamp="1588565448809">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="184" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1588565448809" />
+    <state width="1397" height="700" key="GridCell.Tab.0.bottom" timestamp="1588929083813">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="700" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1588929083813" />
+    <state width="1493" height="638" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588600750611" />
+    <state width="1397" height="700" key="GridCell.Tab.0.center" timestamp="1588929083813">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="700" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1588929083813" />
+    <state width="1493" height="638" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588600750611" />
+    <state width="1397" height="700" key="GridCell.Tab.0.left" timestamp="1588929083813">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="700" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1588929083813" />
+    <state width="1493" height="638" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588600750611" />
+    <state width="1397" height="700" key="GridCell.Tab.0.right" timestamp="1588929083813">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="700" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1588929083813" />
+    <state width="1493" height="638" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588600750611" />
+    <state width="1397" height="276" key="GridCell.Tab.1.bottom" timestamp="1588748748494">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1588748748494" />
+    <state width="1397" height="276" key="GridCell.Tab.1.center" timestamp="1588748748494">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1588748748494" />
+    <state width="1397" height="276" key="GridCell.Tab.1.left" timestamp="1588748748494">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1588748748494" />
+    <state width="1397" height="276" key="GridCell.Tab.1.right" timestamp="1588748748494">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1588748748494" />
+    <state x="320" y="5" key="SettingsEditor" timestamp="1590145669620">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="200" y="4" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1588565450436" />
+    <state x="213" y="4" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588598134677" />
+    <state x="320" y="5" key="SettingsEditor/1982.0.1538.900/62.0.1858.1080@62.0.1858.1080" timestamp="1590145669620" />
+    <state x="578" y="318" key="com.intellij.ide.util.TipDialog" timestamp="1590145650532">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="400" y="253" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1589185861208" />
+    <state x="578" y="318" key="com.intellij.ide.util.TipDialog/1982.0.1538.900/62.0.1858.1080@62.0.1858.1080" timestamp="1590145650532" />
+    <state x="445" y="265" key="com.intellij.ide.util.TipDialog/62.0.1378.900@62.0.1378.900" timestamp="1589934925057" />
+    <state x="418" y="323" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1588565353411">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="418" y="323" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.860@0.0.1440.860" timestamp="1588565353411" />
+    <state x="94" y="39" key="new project wizard" timestamp="1589005653029">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="94" y="39" key="new project wizard/0.0.1440.860@0.0.1440.860" timestamp="1589005653029" />
+    <state x="556" y="226" width="868" height="852" key="search.everywhere.popup" timestamp="1590145659000">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1588905508265" />
+    <state x="409" y="172" width="717" height="650" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1588599673390" />
+    <state x="556" y="226" width="868" height="852" key="search.everywhere.popup/1982.0.1538.900/62.0.1858.1080@62.0.1858.1080" timestamp="1590145659000" />
+  </component>
+</project>
